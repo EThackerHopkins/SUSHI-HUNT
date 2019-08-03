@@ -5,4 +5,4 @@ A Windows Form Application game created in 2015, where the player navigates a ma
 
 The font "Commodore PET" is supplied in a TrueType font file (TTF); installing this will allow SUSHI HUNT to display in-game text properly.
 
-The soundtrack to SUSHI HUNT is available here: https://postapocolyptica.bandcamp.com/album/sushi-hunt-ost
+The soundtrack to SUSHI HUNT is available here: https://www.youtube.com/watch?v=iw8a1wQ0R0k
